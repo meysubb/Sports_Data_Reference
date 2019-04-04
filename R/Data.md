@@ -2,7 +2,18 @@
 
 ## American Football 
 
+| Package Name  	| Author(s)                   	| CRAN 	| Github Link                         	|
+|---------------	|-----------------------------	|------	|-------------------------------------	|
+| nflscrapR     	| Ron Yurko, Horowitz, et al. 	| N    	| https://github.com/ryurko/nflscrapR 	|
+|               	|                             	|      	|                                     	|
+
+
 ## American College Sports
+
+| Package Name  	| Author(s)  	| CRAN 	| Github Link                             	|
+|---------------	|------------	|------	|-----------------------------------------	|
+| collegeballR  	| Meyappan S 	| N    	| https://github.com/meysubb/collegeballR 	|
+|               	|            	|      	|                                         	|
 
 ## Baseball 
 
@@ -25,11 +36,16 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | nbastatR      	| Alex Bresler 	| N    	| https://github.com/abresler/nbastatR  	|
 | ballR         	| Ryan Elmore  	| Y    	| https://github.com/rtelmore/ballr     	|
 
+## Hockey 
 
 ## Soccer (Football World)
 
-
-
+| Package Name  	| Author(s)     	| CRAN 	| Github Link                                  	|
+|---------------	|---------------	|------	|----------------------------------------------	|
+| fcscrapR      	| Ron Yurko     	| N    	| https://github.com/ryurko/fcscrapR           	|
+| footballR     	| David Sheehan 	| N    	| https://github.com/dashee87/footballR        	|
+| eLPAR-soccer  	| Kostas        	| N    	| https://github.com/kpelechrinis/eLPAR-soccer 	|
+| engsoccerdata 	| James Curley  	| N    	| https://github.com/jalapic/engsoccerdata     	|
 
 
 # List of Data Sources
