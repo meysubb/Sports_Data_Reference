@@ -38,6 +38,14 @@ This includes both College and NBA basketball packages. Would love to incorporat
 
 ## Hockey 
 
+| Package Name  	| Author(s)    	| CRAN 	| Github Link                              	|
+|---------------	|--------------	|------	|------------------------------------------	|
+| nwhl-scraper  	| Jake Flancer 	| ?    	| https://github.com/jflancer/nwhl-scraper 	|
+|               	|              	| N    	|                                          	|
+|               	|              	| N    	|                                          	|
+|               	|              	| N    	|                                          	|
+
+
 ## Soccer (Football World)
 
 | Package Name  	| Author(s)     	| CRAN 	| Github Link                                  	|
