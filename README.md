@@ -11,3 +11,10 @@ Feel free to add info on other languages etc. In the future, I (or we) can docum
 [R Packages](R/Data.md)  
 [Python](Python/Data.md)   
 [JS](JS/Data.md)  
+
+## Contribute
+
+There are two ways to contribute:
+
+1) Make a Pull Request
+2) Fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdaTujrZUEk21sVSuJTyZjAuWSDlg-fj-R12-oyX75VmeFzTg/viewform?usp=sf_link), and i'll do it!
