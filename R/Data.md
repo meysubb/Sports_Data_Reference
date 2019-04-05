@@ -57,6 +57,8 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | eLPAR-soccer  	| Kostas        	| N    	| https://github.com/kpelechrinis/eLPAR-soccer 	|
 | engsoccerdata 	| James Curley  	| N    	| https://github.com/jalapic/engsoccerdata     	|
 | ggsoccer          | Ben Torvaney      | N     | https://github.com/Torvaney/ggsoccer          | 
+| footballdatr      | Ben Torvaney      | N     | https://github.com/Torvaney/footballdatr      | 
+| regista           | Ben Torvaney      | N     | https://github.com/Torvaney/regista           | 
 | fc.rstats         | FC_rSTATS         | N     | https://github.com/FCrSTATS/fc.rstats         | 
 
 
