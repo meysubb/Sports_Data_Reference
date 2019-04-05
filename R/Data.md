@@ -24,6 +24,8 @@ Mostly MLB stuff, baseballR also can grab NCAA data.
 | baseballR     	| Bill Petti    	| N    	| https://github.com/BillPetti/baseballr  	|
 | Lahman        	| Sean Lahman   	| Y    	|                                         	|
 | mlbgameday    	| Kris Eberwein 	| Y    	| https://github.com/keberwein/mlbgameday 	|
+| GeomMLBStadiums   | Ben Dilday        | N     | https://github.com/bdilday/GeomMLBStadiums|
+| openWAR           | Ben Baumer        | N     | https://github.com/beanumber/openWAR      | 
 
 ## Basketball 
 
@@ -40,7 +42,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 
 | Package Name  	| Author(s)    	| CRAN 	| Github Link                              	|
 |---------------	|--------------	|------	|------------------------------------------	|
-| nwhl-scraper  	| Jake Flancer 	| ?    	| https://github.com/jflancer/nwhl-scraper 	|
+| nwhlR         	| Jake Flancer 	| N    	| https://github.com/jflancer/nwhlR 	    |
 |               	|              	| N    	|                                          	|
 |               	|              	| N    	|                                          	|
 |               	|              	| N    	|                                          	|
@@ -54,6 +56,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | footballR     	| David Sheehan 	| N    	| https://github.com/dashee87/footballR        	|
 | eLPAR-soccer  	| Kostas        	| N    	| https://github.com/kpelechrinis/eLPAR-soccer 	|
 | engsoccerdata 	| James Curley  	| N    	| https://github.com/jalapic/engsoccerdata     	|
+| ggsoccer          | Ben Torvaney      | N     | https://github.com/Torvaney/ggsoccer          | 
 
 
 # List of Data Sources
