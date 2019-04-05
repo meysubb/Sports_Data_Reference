@@ -43,7 +43,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | Package Name  	| Author(s)    	| CRAN 	| Github Link                              	|
 |---------------	|--------------	|------	|------------------------------------------	|
 | nwhlR         	| Jake Flancer 	| N    	| https://github.com/jflancer/nwhlR 	    |
-|               	|              	| N    	|                                          	|
+| elite          	| Evan Oppenheimer |   N   	| https://github.com/eoppe1022/elite       	|
 |               	|              	| N    	|                                          	|
 |               	|              	| N    	|                                          	|
 
