@@ -71,5 +71,9 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | fc.rstats         | FC_rSTATS         | N     | https://github.com/FCrSTATS/fc.rstats         | 
 
 
+## Betting data 
 
-# List of Data Sources
+| Package Name  	| Author(s) 	| CRAN 	| Github Link                         	|
+|---------------	|-----------	|------	|-------------------------------------	|
+| abettor       	| Phill     	| N    	| https://github.com/phillc73/abettor 	|
+|               	|           	| N    	|                                     	|
