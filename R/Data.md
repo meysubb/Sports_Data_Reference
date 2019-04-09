@@ -26,6 +26,7 @@ Mostly MLB stuff, baseballR also can grab NCAA data.
 | mlbgameday    	| Kris Eberwein 	| Y    	| https://github.com/keberwein/mlbgameday 	|
 | GeomMLBStadiums   | Ben Dilday        | N     | https://github.com/bdilday/GeomMLBStadiums|
 | openWAR           | Ben Baumer        | N     | https://github.com/beanumber/openWAR      | 
+| pitchRx           | Carson Sievert    | Y     | http://cpsievert.github.io/pitchRx/       |
 
 ## Basketball 
 
