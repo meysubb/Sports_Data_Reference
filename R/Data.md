@@ -38,6 +38,15 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | nbastatR      	| Alex Bresler 	| N    	| https://github.com/abresler/nbastatR  	|
 | ballR         	| Ryan Elmore  	| Y    	| https://github.com/rtelmore/ballr     	|
 
+## Cricket
+
+| Package Name  	| Author(s)      	| CRAN 	| Github Link                                 	|
+|---------------	|----------------	|------	|---------------------------------------------	|
+| cricketr      	| Tinniam Ganesh 	| Y    	| https://github.com/tvganesh/cricketr        	|
+| yorkr         	| Tinniam Ganesh 	| Y    	| https://github.com/tvganesh/yorkr           	|
+| cricketdata   	| rOpenSci Labs  	| N    	| https://github.com/ropenscilabs/cricketdata 	|
+|               	|                	| N    	|                                             	|
+
 ## Hockey 
 
 | Package Name  	| Author(s)    	| CRAN 	| Github Link                              	|
