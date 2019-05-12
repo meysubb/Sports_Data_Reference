@@ -34,6 +34,7 @@ Mostly MLB stuff, baseballR also can grab NCAA data.
 | mlbgameday    	| Kris Eberwein 	| Y    	| https://github.com/keberwein/mlbgameday 	|
 | GeomMLBStadiums   | Ben Dilday        | N     | https://github.com/bdilday/GeomMLBStadiums|
 | openWAR           | Ben Baumer        | N     | https://github.com/beanumber/openWAR      | 
+| pitchRx           | Carson Sievert    | Y     | http://cpsievert.github.io/pitchRx/       |
 
 ## Basketball 
 
@@ -46,12 +47,14 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | nbastatR      	| Alex Bresler 	| N    	| https://github.com/abresler/nbastatR  	|
 | ballR         	| Ryan Elmore  	| Y    	| https://github.com/rtelmore/ballr     	|
 
-## Betting 
+## Cricket
 
-| Package Name  	| Author(s)    	| CRAN 	| Github Link                           	|
-|---------------	|--------------	|------	|---------------------------------------	|
-| betScrapeR    	| David Sheehan    	| N    	| https://github.com/dashee87/betScrapeR 	|
-
+| Package Name  	| Author(s)      	| CRAN 	| Github Link                                 	|
+|---------------	|----------------	|------	|---------------------------------------------	|
+| cricketr      	| Tinniam Ganesh 	| Y    	| https://github.com/tvganesh/cricketr        	|
+| yorkr         	| Tinniam Ganesh 	| Y    	| https://github.com/tvganesh/yorkr           	|
+| cricketdata   	| rOpenSci Labs  	| N    	| https://github.com/ropenscilabs/cricketdata 	|
+|               	|                	| N    	|                                             	|
 
 ## Hockey 
 
@@ -84,5 +87,10 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | fc.rstats         | FC_rSTATS         | N     | https://github.com/FCrSTATS/fc.rstats         | 
 
 
+## Betting data 
 
-# List of Data Sources
+| Package Name  	| Author(s) 	| CRAN 	| Github Link                         	|
+|---------------	|-----------	|------	|-------------------------------------	|
+| abettor       	| Phill     	| N    	| https://github.com/phillc73/abettor 	|
+| betScrapeR    	| David Sheehan    	| N    	| https://github.com/dashee87/betScrapeR 	|
+|               	|           	| N    	|                                     	|
