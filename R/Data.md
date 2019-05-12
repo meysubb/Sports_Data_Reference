@@ -15,6 +15,14 @@
 | collegeballR  	| Meyappan S 	| N    	| https://github.com/meysubb/collegeballR 	|
 |               	|            	|      	|                                         	|
 
+## Australian Rules Football 
+
+| Package Name  	| Author(s)  	| CRAN 	| Github Link                             	|
+|---------------	|------------	|------	|-----------------------------------------	|
+| fitzRoy      	| James Day	| N    	| https://github.com/jimmyday12/fitzRoy	|
+|               	|            	|      	|                                         	|
+
+
 ## Baseball 
 
 Mostly MLB stuff, baseballR also can grab NCAA data. 
@@ -38,6 +46,13 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | nbastatR      	| Alex Bresler 	| N    	| https://github.com/abresler/nbastatR  	|
 | ballR         	| Ryan Elmore  	| Y    	| https://github.com/rtelmore/ballr     	|
 
+## Betting 
+
+| Package Name  	| Author(s)    	| CRAN 	| Github Link                           	|
+|---------------	|--------------	|------	|---------------------------------------	|
+| betScrapeR    	| David Sheehan    	| N    	| https://github.com/dashee87/betScrapeR 	|
+
+
 ## Hockey 
 
 | Package Name  	| Author(s)    	| CRAN 	| Github Link                              	|
@@ -46,6 +61,13 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | elite          	| Evan Oppenheimer |   N   	| https://github.com/eoppe1022/elite       	|
 |               	|              	| N    	|                                          	|
 |               	|              	| N    	|                                          	|
+
+## Horse Racing 
+
+| Package Name  	| Author(s)    	| CRAN 	| Github Link                              	|
+|---------------	|--------------	|------	|------------------------------------------	|
+| pinhooker         	| Phil Clarke 	| N    	| https://github.com/phillc73/pinhooker	    |
+
 
 
 ## Soccer (Football World)
