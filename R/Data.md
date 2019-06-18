@@ -35,6 +35,7 @@ Mostly MLB stuff, baseballR also can grab NCAA data.
 | GeomMLBStadiums   | Ben Dilday        | N     | https://github.com/bdilday/GeomMLBStadiums|
 | openWAR           | Ben Baumer        | N     | https://github.com/beanumber/openWAR      | 
 | pitchRx           | Carson Sievert    | Y     | http://cpsievert.github.io/pitchRx/       |
+| retro             | Ben Baumer  	| N  	| https://github.com/beanumber/retro      	|
 
 ## Basketball 
 
@@ -93,4 +94,13 @@ This includes both College and NBA basketball packages. Would love to incorporat
 |---------------	|-----------	|------	|-------------------------------------	|
 | abettor       	| Phill     	| N    	| https://github.com/phillc73/abettor 	|
 | betScrapeR    	| David Sheehan    	| N    	| https://github.com/dashee87/betScrapeR 	|
+| matchbook         | xanadunf          	| N    	|  https://github.com/xanadunf/matchbook  |
+
+# Scraper(s)
+
+## Cycling 
+
+| Repo Name  	| Author(s) 	| CRAN 	| Github Link                         	|
+|---------------	|-----------	|------	|-------------------------------------	|
+| tour-de-france-17       	| everron    	| N    	| https://github.com/everron/tour-de-france-17 	|
 |               	|           	| N    	|                                     	|
