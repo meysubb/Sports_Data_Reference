@@ -10,13 +10,21 @@
 
 
 ## American College Sports
+
+| Package Name  	| Author(s)   	| 2/3 	| Github Link                             	|
+|---------------	|-------------	|-----	|-----------------------------------------	|
+| CFBScrapy      	| Ryan Lindholm 	| 3   	| https://github.com/rlindholm/CFBScrapy	|
+|               	|             	|   	|                                         	|
+|               	|             	|    	|                                         	|
+
+
 ## Baseball 
 
 | Package Name  	| Author(s)   	| 2/3 	| Github Link                             	|
 |---------------	|-------------	|-----	|-----------------------------------------	|
 | PyBall        	| Brad Hurley 	| 3   	| https://github.com/bradleyhurley/PyBall 	|
 | pybaseball        | James LeDoux  | 2/3   | https://github.com/jldbc/pybaseball       |
-|               	|             	|   	|                                         	|
+| mlbgame       	| Zach Panzarino | 2/3  	| https://github.com/panzarino/mlbgame      |
 |               	|             	|    	|                                         	|
 
 ## Basketball 
@@ -24,10 +32,18 @@
 | Package Name  	| Author(s)   	| 2/3 	| Github Link                             	|
 |---------------	|-------------	|-----	|-----------------------------------------	|
 | py-Goldsberry    	| Bradley Fay  	| 2/3   | https://github.com/bradleyfay/py-Goldsberry 	|
-|               	|             	|   	|                                         	|
-|               	|             	|    	|                                         	|
+| nba_scraper      	| Matthew Barlowe |  3 	| https://github.com/mcbarlowe/nba_scraper      |
+| py_ball  	|  Patrick McFarlane           	|   3 	| https://github.com/basketballrelativity/py_ball |
 
 ## Hockey 
+
+## Horse Racing 
+
+| Package Name  	| Author(s)   	| 2/3 	| Github Link                             	|
+|---------------	|-------------	|-----	|-----------------------------------------	|
+| racing_data    	| Phill  	| 2/3   | https://github.com/phillc73/racing_data 	|
+
+
 ## Soccer (Football World)
 
 | Package Name     	| Author(s)  	| 2/3 	| Github Link                                     	|
