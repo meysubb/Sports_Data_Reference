@@ -5,7 +5,7 @@
 | Package Name  	| Author(s)                   	| CRAN 	| Github Link                         	|
 |---------------	|-----------------------------	|------	|-------------------------------------	|
 | nflscrapR     	| Ron Yurko, Horowitz, et al. 	| N    	| https://github.com/ryurko/nflscrapR 	|
-|               	|                             	|      	|                                     	|
+| cfbscrapR      	| Meyappan S                   	| N     | https://github.com/meysubb/cfbscrapR  |
 
 
 ## American College Sports
