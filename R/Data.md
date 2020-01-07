@@ -86,6 +86,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | footballdatr      | Ben Torvaney      | N     | https://github.com/Torvaney/footballdatr      | 
 | regista           | Ben Torvaney      | N     | https://github.com/Torvaney/regista           | 
 | fc.rstats         | FC_rSTATS         | N     | https://github.com/FCrSTATS/fc.rstats         | 
+| nwslR        | Arielle Dror, Sophia Tannir, Baumer | N     | https://github.com/adror1/nwslR         | 
 
 
 ## Betting data 
