@@ -22,6 +22,12 @@
 | ATP Matches/Stats - Jeff Sackman 	| csv    	| https://github.com/JeffSackmann/tennis_atp 	|
 | WTA Matches/Stats - Jeff Sackman 	| csv    	| https://github.com/JeffSackmann/tennis_wta 	|
 
+## Rowing
+
+| Data Description                                                           	| Format 	| Link                           	|
+|----------------------------------------------------------------------------	|--------	|--------------------------------	|
+| World Championship Rowing Split Times and Strokes per Minute 	| csv    	| https://github.com/danichusfu/rowing_pacing_profiles	|
+|          
 
 ## Multiple Datasets
 
