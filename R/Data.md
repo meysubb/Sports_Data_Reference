@@ -47,6 +47,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | bigballR      	| Jake Flancer 	| N    	| https://github.com/jflancer/bigballR  	|
 | nbastatR      	| Alex Bresler 	| N    	| https://github.com/abresler/nbastatR  	|
 | ballR         	| Ryan Elmore  	| Y    	| https://github.com/rtelmore/ballr     	|
+| wncaahoopR     	| Scott Nestler | N    	| https://github.com/snestler/wncaahoopR 	|
 
 ## Cricket
 
