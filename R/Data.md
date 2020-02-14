@@ -105,4 +105,11 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | Repo Name  	| Author(s) 	| CRAN 	| Github Link                         	|
 |---------------	|-----------	|------	|-------------------------------------	|
 | tour-de-france-17       	| everron    	| N    	| https://github.com/everron/tour-de-france-17 	|
-|               	|           	| N    	|                                     	|
+| evolving-hockey      | Luke & Josh Younggren   | N    	|                                     	|
+
+
+## Hockey
+
+| Repo Name  	| Author(s) 	| CRAN 	| Github Link                         	|
+|---------------	|-----------	|------	|-------------------------------------	|
+| evolving-hockey      | Luke & Josh Younggren   | N    	|                                     	|
