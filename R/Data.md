@@ -6,7 +6,7 @@
 |---------------	|-----------------------------	|------	|-------------------------------------	|
 | nflscrapR     	| Ron Yurko, Horowitz, et al. 	| N    	| https://github.com/ryurko/nflscrapR 	|
 | cfbscrapR      	| Meyappan S                   	| N     | https://github.com/meysubb/cfbscrapR  |
-| xflscrapR     	| Keegan A, Cairo B, et al. 	| N    	| https://github.com/keegan-abdoo/xflscrapR 	|
+| xflscrapR     	| Keegan A, Caio B, et al. 	| N    	| https://github.com/keegan-abdoo/xflscrapR 	|
 
 
 ## American College Sports
