@@ -65,7 +65,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 |---------------	|--------------	|------	|------------------------------------------	|
 | nwhlR         	| Jake Flancer 	| N    	| https://github.com/jflancer/nwhlR 	    |
 | elite          	| Evan Oppenheimer |   N   	| https://github.com/eoppe1022/elite       	|
-|               	|              	| N    	|                                          	|
+| evolving-hockey | Evolving Wild| N    	|  https://github.com/evolvingwild/evolving-hockey |
 |               	|              	| N    	|                                          	|
 
 ## Horse Racing 
