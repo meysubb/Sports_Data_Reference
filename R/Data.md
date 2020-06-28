@@ -66,7 +66,8 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | nwhlR         	| Jake Flancer 	| N    	| https://github.com/jflancer/nwhlR 	    |
 | elite          	| Evan Oppenheimer |   N   	| https://github.com/eoppe1022/elite       	|
 | evolving-hockey | Luke & Josh Younggren| N    	|  https://github.com/evolvingwild/evolving-hockey |
-|               	|              	| N    	|                                          	|
+| nhlapi          | Jozef Hajnala | Y   	| https://github.com/jozefhajnala/nhlapi  	|
+| nhlscrape        | Adam Azoula | Y   	| https://github.com/adamazoulay/nhlscrape  	|
 
 ## Horse Racing 
 
