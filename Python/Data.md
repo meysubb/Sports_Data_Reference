@@ -25,7 +25,7 @@
 | PyBall        	| Brad Hurley 	| 3   	| https://github.com/bradleyhurley/PyBall 	|
 | pybaseball        | James LeDoux  | 2/3   | https://github.com/jldbc/pybaseball       |
 | mlbgame       	| Zach Panzarino | 2/3  	| https://github.com/panzarino/mlbgame      |
-|               	|             	|    	|                                         	|
+| pybbda          | Ben Dilday    |   3 	| https://github.com/bdilday/pybbda         |
 
 ## Basketball 
 
