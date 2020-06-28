@@ -7,6 +7,7 @@
 | nflscrapR     	| Ron Yurko, Horowitz, et al. 	| N    	| https://github.com/ryurko/nflscrapR 	|
 | cfbscrapR      	| Meyappan S                   	| N     | https://github.com/meysubb/cfbscrapR  |
 | xflscrapR     	| Keegan A, Caio B, et al. 	| N    	| https://github.com/keegan-abdoo/xflscrapR 	|
+| espnscrapeR     | Thomas Mock                   | N     | https://github.com/jthomasmock/espnscrapeR/ |   
 
 
 ## American College Sports
@@ -14,7 +15,7 @@
 | Package Name  	| Author(s)  	| CRAN 	| Github Link                             	|
 |---------------	|------------	|------	|-----------------------------------------	|
 | collegeballR  	| Meyappan S 	| N    	| https://github.com/meysubb/collegeballR 	|
-|               	|            	|      	|                                         	|
+| espnscrapeR     | Thomas Mock | N     | https://github.com/jthomasmock/espnscrapeR/ |
 
 ## Australian Rules Football 
 
