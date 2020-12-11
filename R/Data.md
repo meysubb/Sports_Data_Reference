@@ -5,7 +5,8 @@
 | Package Name  	| Author(s)                   	| CRAN 	| Github Link                         	|
 |---------------	|-----------------------------	|------	|-------------------------------------	|
 | nflscrapR     	| Ron Yurko, Horowitz, et al. 	| N    	| https://github.com/ryurko/nflscrapR 	|
-| cfbscrapR      	| Meyappan S                   	| N     | https://github.com/meysubb/cfbscrapR  |
+| nflfastR     	  | Sebastien Carl, Ben Baldwin 	| Y    	| https://github.com/mrcaseb/nflfastR/ 	|
+| cfbscrapR      	| Meyappan S, Saiem G, Parker F	| N     | https://github.com/meysubb/cfbscrapR  |
 | xflscrapR     	| Keegan A, Caio B, et al. 	| N    	| https://github.com/keegan-abdoo/xflscrapR 	|
 | espnscrapeR     | Thomas Mock                   | N     | https://github.com/jthomasmock/espnscrapeR/ |   
 
@@ -49,6 +50,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | bigballR      	| Jake Flancer 	| N    	| https://github.com/jflancer/bigballR  	|
 | nbastatR      	| Alex Bresler 	| N    	| https://github.com/abresler/nbastatR  	|
 | ballR         	| Ryan Elmore  	| Y    	| https://github.com/rtelmore/ballr     	|
+| kenpomR         | Saiem Gilani 	| N    	| https://github.com/saiemgilani/kenpomR 	|
 | wncaahoopR     	| Scott Nestler | N    	| https://github.com/snestler/wncaahoopR 	|
 
 ## Cricket
