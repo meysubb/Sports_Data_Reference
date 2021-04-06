@@ -54,6 +54,7 @@ This includes both College and NBA basketball packages. Would love to incorporat
 | kenpomR         | Saiem Gilani 	| N    	| https://github.com/saiemgilani/kenpomR 	|
 | wncaahoopR     	| Scott Nestler | N    	| https://github.com/snestler/wncaahoopR 	|
 | wbigballR      	| Jake Flancer 	| N    	| https://github.com/jflancer/wbigballR  	|
+| gamezoneR      	| Jack Lichtenstein 	| N    	| https://github.com/JackLich10/gamezoneR  	|
 
 
 ## Cricket
